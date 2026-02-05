@@ -1,6 +1,9 @@
 # Game Arena Replay Analyzer
 
-Tiny daily AI-trend microproject (FastAPI + Streamlit) — generated on 2026-02-05.
+Small FastAPI + Streamlit service project.
+
+## Overview
+This repository contains a minimal but structured implementation focused on the core domain logic described below.
 
 ## Why
 Interactive benchmarks (games/arenas) are a richer signal for agents than static QA, but debugging is hard. This project turns a replay into failure mode counts and swing moments.
